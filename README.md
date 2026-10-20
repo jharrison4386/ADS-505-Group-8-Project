@@ -43,6 +43,9 @@ By combining these approaches, the project seeks to identify key churn patterns,
 • Feature Selection
 
 
+• Comparative Analysis
+
+
 
 ## Technologies
 • Python
